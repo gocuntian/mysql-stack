@@ -1,11 +1,3 @@
-[![Build Status](https://travis-ci.org/xelabs/go-mysqlstack.png)](https://travis-ci.org/xelabs/go-mysqlstack) [![Go Report Card](https://goreportcard.com/badge/github.com/gocuntian/mysql-stack)](https://goreportcard.com/report/github.com/gocuntian/mysql-stack) [![codecov.io](https://codecov.io/gh/xelabs/go-mysqlstack/graphs/badge.svg)](https://codecov.io/gh/xelabs/go-mysqlstack/branch/master)
-
-# go-mysqlstack
-
-***go-mysqlstack*** is an MySQL protocol library implementing in Go (golang).
-
-Protocol is based on [mysqlproto-go](https://github.com/pubnative/mysqlproto-go) and [go-sql-driver](https://github.com/go-sql-driver/mysql)
-
 ## Running Tests
 
 ```
