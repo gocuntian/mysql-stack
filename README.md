@@ -23,11 +23,3 @@ $ go run example/mysqld.go
 $ go run example/client.go
   2018/01/26 16:06:10.779340 client.go:32:    [INFO]    results:[[[10 nice name]]]
 ```
-
-## Status
-
-go-mysqlstack is production ready.
-
-## License
-
-go-mysqlstack is released under the GPLv3. See LICENSE
